@@ -11,16 +11,3 @@ We bring here many concepts developed and implemented at [MTS](https://www.mts.s
 ## Awesome contributors
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=TcOpenGroup/TcOpen)
-
-## Powered by
-
-<div>
-   <a href="https://www.mts.sk/en">
-      <img src="https://github.com/TcOpenGroup/.github/blob/dev/profile/assets/logo/mts-logo.png" alt="drawing" width="200"/>
-  </a>
-  <a href="https://www.inxton.com">
-    <img src="https://github.com/TcOpenGroup/.github/blob/dev/profile/assets/logo/inxton.png" alt="drawing" width="200"/>
-  </a>  
-<div>
-  
-[![Inxton](https://img.shields.io/badge/github-inxton-009999?logo=github)](https://github.com/inxton)  
