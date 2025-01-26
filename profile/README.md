@@ -8,9 +8,9 @@
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=TcOpenGroup/TcOpen)
 
+<!--<div>
 ## Powered by
 
-<div>
 <img src="https://github.com/TcOpenGroup/.github/blob/dev/profile/assets/logo/mts-logo.png" alt="drawing" width="200"/>
 <img src="https://github.com/TcOpenGroup/.github/blob/dev/profile/assets/logo/inxton.png" alt="drawing" width="200"/>
-<div>  
+<div>-->  
